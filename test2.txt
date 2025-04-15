@@ -1,1 +1,17 @@
 akshay kumar
+
+git config --global user.name "kumar-akshay1998"
+git config --global user.email "akshaykumar09081998@gmail.com
+pass Kum@r09081998
+
+git init
+git status
+
+git add .
+git commit -m "akshay"
+
+git remote add origin ssh url coppy from git repo
+
+once complete teh push
+
+git push origin master

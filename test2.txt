@@ -15,3 +15,9 @@ git remote add origin ssh url coppy from git repo
 once complete teh push
 
 git push origin master
+
+------------------------
+Add branch and switch to
+git checkout -b feature1
+Aa
+uhuehu
